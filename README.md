@@ -1,6 +1,6 @@
 # telegram-bot
 
-### todo list
+### function todo list
 
-- [x] Done
-- [ ] not Done
+- [ ] send message
+- [ ] send photo
