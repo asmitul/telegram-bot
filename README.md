@@ -2,5 +2,5 @@
 
 ### function todo list
 
-- [ ] send message
-- [ ] send photo
+- [x] send text message
+- [x] send photo
